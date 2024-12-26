@@ -1,0 +1,20 @@
+﻿  CheckBoxQuestion.cpp
+  CreateQuestionUI.cpp
+  LogInPage.cpp
+E:\Project5\LogInPage.h(28,46): warning C4677: 'userAccounts': signature of non-private member contains assembly private type 'cliext::vector<UserAccount ^>'
+E:\Project5\LogInPage.h(28): message : see declaration of 'cliext::vector<UserAccount ^>'
+E:\Project5\LogInPage.h(28,46): warning C4677: 'userAccounts': signature of non-private member contains assembly private type 'UserAccount'
+E:\Project5\UserAccount.h(9): message : see declaration of 'UserAccount'
+E:\Project5\LogInPage.h(267,14): warning C4101: 'username': unreferenced local variable
+E:\Project5\LogInPage.h(268,14): warning C4101: 'password': unreferenced local variable
+  MultipleChoiceQuestion.cpp
+  MyForm.cpp
+  CreateMultiplechoiceAndChecBoxQuestion.cpp
+  Q.cpp
+  TrueOrFalseQuestion.cpp
+  TypeInQuestion.cpp
+  UserAccount.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  CheckBoxQuestion.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project5.vcxproj -> E:\Project5\x64\Debug\Project5.exe

@@ -1,0 +1,16 @@
+01.What is the purpose of an operating system scheduler ?:allocate,deallocate,manage,synchronize,allocate;
+12.Is cloud computing a centralized form of data storage?:true,false, , ,false;
+13.Is JavaScript primarily used for back-end development?:true,false, , ,false;
+14.Is cybersecurity solely focused on protecting hardware?:true,false, , ,false;
+15.Is Python commonly used for web scraping and automation?:true,false, , ,true;
+16.Is blockchain technology used for decentralized record-keeping?:true,false, , ,true;
+17.Is PHP a server-side scripting language?:true,false, , ,true;
+19.Is a firewall used to protect against unauthorized access to network?:true,false, , ,true;
+18.Is SQL used for querying and manipulating databases?:true,false, , ,true; 
+010.What is the purpose of a relational database management system (RDBMS)?:Data visualization,Data analysis,Data storage and retrieval,Data encryption,Data storage and retrieval;
+011.Which programming language is commonly used for web development and server-side scripting?:Python,C++,JavaScript,HTML,JavaScript;
+012.What is the primary function of a firewall in the context of information systems?:Data encryption,Network security,User authentication,File compression,Network security;
+013.Which of the following is NOT a primary function of an operating system?:Memory management,File management,Data encryption,Process management,Data encryption;
+014.What does CRM stand for in the context of information systems?:Customer Relationship Management,Computer Resource Management,Centralized Record Management,Client Relationship Management,Customer Relationship Management;
+015.Which of the following is a key component of cloud computing?:Local storage,Virtualization,Analog computing,Quantum computing,Virtualization;
+016.What does SQL stand for?:Structured Query Language,Simple Query Language,System Query Language,Standardized Query Language,Structured Query Language;

@@ -1,0 +1,19 @@
+C:\Users\Sbongakonke Sfiso\source\repos\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+C:\Users\Sbongakonke Sfiso\source\repos\Project5\x64\Debug\Project5.CreateMultiplechoiceAndChecBoxQuestion.resources
+C:\Users\Sbongakonke Sfiso\source\repos\Project5\x64\Debug\Project5.LogInPage.resources
+C:\Users\Sbongakonke Sfiso\source\repos\Project5\x64\Debug\Project5.MyForm.resources
+C:\Users\Sbongakonke Sfiso\source\repos\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\Sbongakonke Sfiso\source\repos\Project5\x64\Debug\Project5.exe
+C:\Users\221001276\Downloads\Project5\x64\Debug\Project5.CreateMultiplechoiceAndChecBoxQuestion.resources
+C:\Users\221001276\Downloads\Project5\x64\Debug\Project5.CreateQuestionUI.resources
+C:\Users\221001276\Downloads\Project5\x64\Debug\Project5.LogInPage.resources
+C:\Users\221001276\Downloads\Project5\x64\Debug\Project5.MyForm.resources
+C:\Users\221001276\Downloads\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+C:\Users\221001276\Downloads\Project5\x64\Debug\Project5.exe
+C:\Users\221001276\Downloads\Project5\x64\Debug\Project5.vcxproj.AssemblyReference.cache
+E:\Project5\x64\Debug\Project5.CreateMultiplechoiceAndChecBoxQuestion.resources
+E:\Project5\x64\Debug\Project5.CreateQuestionUI.resources
+E:\Project5\x64\Debug\Project5.LogInPage.resources
+E:\Project5\x64\Debug\Project5.MyForm.resources
+E:\Project5\x64\Debug\Project5.vcxproj.GenerateResource.cache
+E:\Project5\x64\Debug\Project5.exe

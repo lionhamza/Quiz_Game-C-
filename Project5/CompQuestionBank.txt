@@ -1,0 +1,15 @@
+01.What is the purpose of an operating system scheduler?:allocate,deallocate,manage,synchronize,allocate;
+02.What is the primary function of a compiler?: interpret,translate,execute,optimize,translate;
+24.What is the primary function of an interpreter in programming languages?:translate,execute,optimize,compile,execute;
+05.What is the primary purpose of virtual memory in operating systems?:manage,allocate,deallocate,synchronize,manage;
+06.What is the primary function of a DNS server in networking?: resolve domain names to IP addresses,encrypt data transmissions,authenticate users,monitor network traffic, resolve domain names to IP addresses;
+07.Which technology is used to establish secure communication over an insecure network?: SSL/TLS,HTTP,FTP,SMTP, SSL/TLS;
+18.A DNS server translates domain names to IP addresses.:True,False, , , True;
+19.RAID is a technology used to provide fault tolerance in data storage.:True,False, , , True;
+110.SSL/TLS is used to establish secure communication over an insecure network .:True,False, , , True;
+112.Antivirus software is designed to protect against malicious software threats.:True,False, , , True;
+313.What is the symbol of a reference in c++?.Provide only a symbol:&;
+314.What is the shymbol of a Managed pointer in c++?:^;
+315.How many bits in a byte?Provide an integer:8;
+316.Which classs type has it's members public by default?:struct;
+317.Which keyword in c++ is used to move cursor to new line?:endl;

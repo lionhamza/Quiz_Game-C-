@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Sbongakonke Sfiso\source\repos\Project5\MyForm.h(111,13): warning C4101: 'correctAnswer': unreferenced local variable
+C:\Users\Sbongakonke Sfiso\source\repos\Project5\MyForm.h(109,13): warning C4101: 'questionText': unreferenced local variable
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project5.vcxproj -> C:\Users\Sbongakonke Sfiso\source\repos\Project5\Debug\Project5.exe

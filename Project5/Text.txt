@@ -1,0 +1,3 @@
+01.What is the purpose of an operating system scheduler?:allocate,deallocate,manage,synchronize,allocate;
+02.What is the primary function of a compiler?: interpret,translate,execute,optimize,translate;
+
